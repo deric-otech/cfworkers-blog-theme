@@ -993,7 +993,7 @@ article.format-aside h1 a:hover {
 }
 article.format-aside .aside {
 	background: #F3F3F3;
-    border-top: 16px solid #0063FCA3;
+    border-top: 16px solid #63FCA3;
     padding: 24px 24px 0;
 }
 article.format-aside p {
@@ -1580,7 +1580,7 @@ select#cat {
 	.themonic-nav ul.nav-menu,
 	.themonic-nav div.nav-menu > ul {
 		background:none repeat scroll 0 0 #F3F3F3;
-		border-bottom: 5px solid #0063FCA3;
+		border-bottom: 5px solid #63FCA3;
 		border-top: 1px solid #ededed;
 		display: inline-block !important;
 		text-align: left;
@@ -1644,7 +1644,7 @@ select#cat {
 	.themonic-nav .current-menu-ancestor > a,
 	.themonic-nav .current_page_item > a,
 	.themonic-nav .current_page_ancestor > a {
-		    background: none repeat scroll 0 0 #0063FCA3;
+		    background: none repeat scroll 0 0 #63FCA3;
 			color: #FFFFFF;
 			font-weight: bold;
 	}
